@@ -9,7 +9,7 @@ permalink: /
 **Mission**: Our mission at ICCC Lab is deeply rooted in the pursuit of excellence to address challenges in our digital society. We are committed to pioneering cutting-edge solutions in cybersecurity for protecting sensitive data and combating emerging cyber threats. We aim to optimize the performance and resilience of modern computer networks to ensure their reliability, throughput, and quality of user experience (see [Research](research)).
 
 
-<div id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover">
+<div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
     <!-- Menu -->
     <ol class="carousel-indicators">
         <li data-target="#carousel" data-slide-to="0" class="active"></li>
@@ -21,7 +21,7 @@ permalink: /
     </ol>
 
     <!-- Items -->
-    <div class="carousel-inner">
+    <div class="carousel-inner" markdown="0">
         <div class="item active">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider/maandbf.jpg" alt="Slide 1" />
         </div>
@@ -38,14 +38,14 @@ permalink: /
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider/WechatIMG6.jpg" alt="Slide 5" />
         </div>       
     </div>
-    <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
-        <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
-        <span class="sr-only">Previous</span>
-    </a>
-    <a class="right carousel-control" href="#carousel" role="button" data-slide="next">
-        <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
-        <span class="sr-only">Next</span>
-    </a>
+  <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
+    <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+    <span class="sr-only">Previous</span>
+  </a>
+  <a class="right carousel-control" href="#carousel" role="button" data-slide="next">
+    <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+    <span class="sr-only">Next</span>
+  </a>
 </div>
 
 We are a dynamic research group, at the [University of North Dakota](http://und.edu). 
