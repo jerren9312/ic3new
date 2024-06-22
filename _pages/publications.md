@@ -1,7 +1,7 @@
 ---
 title: "Lab IC3 - Publications"
 layout: gridlay
-excerpt: "Lab IC3 -- Publications."
+excerpt: "Lab IC3 -- Publications"
 sitemap: false
 permalink: /publications/
 ---
