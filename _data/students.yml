@@ -8,13 +8,46 @@
 #  education3:
 #  education4:
 
-- name: Gijsbert Verdoes
-  photo: verdoes.jpg
-  duration: In the Allan Lab 2015 - 2018, now Project manager at the FMD
-  info: Fine mechanical engineer associated with the FMD working in our group
-  email: verdoes@fmd.physics.leidenuniv.nl
+- name: Mohammad Ali
+  photo: ava_MA.jpg
+  duration: joined in 2023
+  info: Master Student
+  email: ash.ali@UND.edu
   number_educ: 1
-  education1: Leidse instrumentmakers School
+  education1: B.Sc., University of Dayton
   education2:
   education3:
+  education4:
+
+- name: Ifiok Udoidiok
+  photo: ava_IU.png
+  duration: joined in 2023
+  info: Master Student
+  email: ifiok.udoidiok@UND.edu
+  number_educ: 1
+  education1: BEng, Bells University, Nigeria
+  education2:
+  education3:
+  education4:
+
+- name: Bruno Saidou Fonkeng
+  photo: ava_BF.png
+  duration: joined in 2023
+  info: PhD Student
+  email: bruno.fonkeng@und.edu
+  number_educ: 1
+  education1: BSc, University of Bamenda, Cameroon
+  education2:
+  education3:
+  education4:
+
+- name: Charles Stolz
+  photo: dummy.png
+  duration: joined in 2024
+  info: PhD Student
+  email: charles.stolz@und.edu
+  number_educ: 3
+  education1: MSc, University of Illinois-Urbana-Champaign
+  education2: MSc, University of Utah
+  education3: BSc, University of Utah
   education4:
