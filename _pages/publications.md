@@ -1,12 +1,12 @@
 ---
-title: "Allan Lab - Publications"
+title: "Lab IC3 - Publications"
 layout: gridlay
-excerpt: "Allan Lab -- Publications."
+excerpt: "Lab IC3 -- Publications."
 sitemap: false
 permalink: /publications/
 ---
 
-
+<p>&nbsp;</p>
 ## Publications
 
 ### Group highlights
