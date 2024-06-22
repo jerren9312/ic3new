@@ -6,7 +6,7 @@ sitemap: false
 permalink: /research/
 ---
 
-# Research
+## Research
 
 Updating soon -- stay put. (Aug 11 2023)
 
