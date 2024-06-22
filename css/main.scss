@@ -91,3 +91,21 @@ firstp {
     margin-right: 30px;
 }
 
+/* Added */
+.custom-navbar-height {
+  height: 100px; /* Set your desired height here */
+}
+
+.custom-navbar-height .navbar-brand img {
+  position: relative;
+  top: -25px; /* Adjust this as needed to align the logo */
+  height: 80px;
+}
+
+.custom-navbar-height .navbar-toggle {
+  margin-top: 35px; /* Adjust this as needed to center the toggle button */
+}
+
+.custom-navbar-height .navbar-collapse {
+  max-height: 100px; /* Ensure the collapse section doesn't exceed the navbar height */
+}
