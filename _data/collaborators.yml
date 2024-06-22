@@ -1,0 +1,20 @@
+#- name:
+#  photo: rock.jpg
+#  info:
+#  email:
+#  number_educ:
+#  education1:
+#  education2:
+#  education3:
+#  education4:
+
+- name: Fuhao Li, Ph.D.
+  photo: ava_FL.png
+  duration: joined in 2023
+  info: External Collaborator
+  email: fuhaoli@ieee.org
+  number_educ: 3
+  education1: PhD, University of Dayton
+  education2: MSc, University of Dayton
+  education3: BSc, Dalian Jiaotong University, China
+  education4:
