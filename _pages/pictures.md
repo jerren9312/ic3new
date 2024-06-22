@@ -5,6 +5,8 @@ excerpt: "Lab IC3 -- Pictures"
 permalink: /pictures/
 ---
 
+<p>&nbsp;</p>
+
 ## Pictures
 Jump to: [Leiden](#leiden), [ETHZ](#ethz), [Cornell](#cornell), [St Andrews](#st-andrews)
 
