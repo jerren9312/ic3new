@@ -9,7 +9,7 @@
 #  education4:
 
 - name: Mohammad Ali
-  photo: ava_MA.jpg
+  photo: ava_MA.JPG
   duration: joined in 2023
   info: Master Student
   email: ash.ali@UND.edu
@@ -31,7 +31,7 @@
   education4:
 
 - name: Bruno Saidou Fonkeng
-  photo: ava_BF.png
+  photo: ava_BF.jpeg
   duration: joined in 2023
   info: PhD Student
   email: bruno.fonkeng@und.edu
@@ -42,7 +42,7 @@
   education4:
 
 - name: Charles Stolz
-  photo: dummy.png
+  photo: bio-photo.jpg
   duration: joined in 2024
   info: PhD Student
   email: charles.stolz@und.edu
