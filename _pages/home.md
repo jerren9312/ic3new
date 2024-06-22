@@ -1,7 +1,7 @@
 ---
 title: "Lab IC3 - Home"
 layout: homelay
-excerpt: "Lab IC3 at the University of North Dakota."
+excerpt: "Lab IC3 at the University of North Dakota"
 sitemap: false
 permalink: /
 ---
