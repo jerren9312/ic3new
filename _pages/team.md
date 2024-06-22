@@ -142,7 +142,7 @@ permalink: /team/
 {% endif %}
 
 
-## Collaborators
+### Collaborators
 
 {% assign number_printed = 0 %}
 {% for member in site.data.collaborators %}
