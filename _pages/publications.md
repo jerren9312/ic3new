@@ -7,6 +7,7 @@ permalink: /publications/
 ---
 
 <p>&nbsp;</p>
+
 ## Publications
 
 ### Group highlights
