@@ -1,7 +1,7 @@
 ---
-title: "Allan Lab - Home"
+title: "Lab ICCC - Home"
 layout: homelay
-excerpt: "Allan Lab at Leiden University &rarr; LMU."
+excerpt: "Lab ICCC at the University of North Dakota."
 sitemap: false
 permalink: /
 ---
