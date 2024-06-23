@@ -27,3 +27,140 @@
     url: https://ieeexplore.ieee.org/abstract/document/9155292/
     display: IEEE INFOCOM 2020-IEEE Conference on Computer Communications (2020)
   highlight: 0
+
+
+- title: "An ensemble-based network intrusion detection scheme with bayesian deep learning"
+  image: dummy.png
+  description: ""
+  authors: J Zhang, F Li, F Ye
+  link:
+    url: https://ieeexplore.ieee.org/abstract/document/9148964/
+    display: ICC 2020-2020 IEEE International Conference on Communications (ICC) (2020)
+  highlight: 0
+
+- title: "Autonomous model update scheme for deep learning based network traffic classifiers"
+  image: dummy.png
+  description: ""
+  authors: J Zhang, F Li, H Wu, F Ye
+  link:
+    url: https://ieeexplore.ieee.org/abstract/document/8966156/
+    display: 2019 IEEE Global Communications Conference (GLOBECOM) (2019)
+  highlight: 0
+
+- title: "Intelligent and application-aware network traffic prediction in smart access gateways"
+  image: dummy.png
+  description: ""
+  authors: J Zhang, F Ye, Y Qian
+  link:
+    url: https://ieeexplore.ieee.org/abstract/document/9099085/
+    display: IEEE Network 34 (3) (2020)
+  highlight: 0
+
+- title: "A distributed network QoE measurement framework for smart networks in smart cities"
+  image: dummy.png
+  description: ""
+  authors: J Zhang, F Ye, Y Qian
+  link:
+    url: https://ieeexplore.ieee.org/abstract/document/8569782/
+    display: 2018 IEEE International Smart Cities Conference (ISC2) (2018)
+  highlight: 0
+
+- title: "A real application enabled traffic generator for networking AI model development"
+  image: dummy.png
+  description: ""
+  authors: K Alsulami, J Zhang, F Ye
+  link:
+    url: https://ieeexplore.ieee.org/abstract/document/9445241/
+    display: ICC 2021-IEEE International Conference on Communications (2021)
+  highlight: 0
+
+- title: "Seamless wireless communication platform for internet of things applications"
+  image: dummy.png
+  description: ""
+  authors: V Kumar, J Yu, F Li, J Zhang, F Ye, S Karri, G Subramanyam
+  link:
+    url: https://ieeexplore.ieee.org/document/9345304
+    display: IEEE Wireless Communications (2022)
+  highlight: 0
+
+- title: "Towards detection of zero-day botnet attack in IoT networks using federated learning"
+  image: dummy.png
+  description: ""
+  authors: J Zhang, S Liang, F Ye, RQ Hu, Y Qian
+  link:
+    url: https://ieeexplore.ieee.org/document/9760812
+    display: ICC 2023-IEEE International Conference on Communications (2023)
+  highlight: 0
+
+- title: "Sustaining the high performance of AI-based network traffic classification models"
+  image: dummy.png
+  description: ""
+  authors: J Zhang, F Li, F Ye
+  link:
+    url: https://ieeexplore.ieee.org/document/9445242
+    display: IEEE/ACM Transactions on Networking 31 (2) (2022)
+  highlight: 0
+
+- title: "Network traffic clustering with QoS-awareness"
+  image: dummy.png
+  description: ""
+  authors: J Zhang, F Li, F Ye
+  link:
+    url: https://ieeexplore.ieee.org/document/9734862
+    display: China Communications 19 (3) (2022)
+  highlight: 0
+
+- title: "Improvement on a traffic data generator for networking AI algorithm development"
+  image: dummy.png
+  description: ""
+  authors: K Alsulami, J Zhang, F Ye
+  link:
+    url: https://ieeexplore.ieee.org/document/9567752
+    display: 2021 IEEE Global Communications Conference (GLOBECOM) (2021)
+  highlight: 0
+
+- title: "A UAV based multi-object detection scheme to enhance road condition monitoring and control for future smart transportation"
+  image: dummy.png
+  description: ""
+  authors: J Yang, J Zhang, F Ye, X Cheng
+  link:
+    url: https://ieeexplore.ieee.org/document/8983965
+    display: Artificial Intelligence for Communications and Networks: First EAI (2019)
+  highlight: 0
+
+- title: "A machine learning approach to modulation detection in wireless communications"
+  image: dummy.png
+  description: ""
+  authors: V Kumar, F Li, J Zhang, F Ye, G Subramanyam
+  link:
+    url: https://ieeexplore.ieee.org/document/9535673
+    display: NAECON 2021-IEEE National Aerospace and Electronics Conference (2021)
+  highlight: 0
+
+- title: "Application-aware traffic prediction and user-aware quality-of-experience measurement in smart network"
+  image: dummy.png
+  description: ""
+  authors: J Zhang
+  link:
+    url: https://ecommons.udayton.edu/graduate_theses/6765
+    display: University of Dayton (2018)
+  highlight: 0
+
+- title: "Mitigating Cross-Transport Key Derivation Attacks in Bluetooth Communication"
+  image: dummy.png
+  description: ""
+  authors: M Ali, J Zhang, F Ye
+  link:
+    url: https://ieeexplore.ieee.org/document/10103245
+    display: NAECON 2023-IEEE National Aerospace and Electronics Conference (2023)
+  highlight: 0
+
+- title: "Sustaining the Performance of Artificial Intelligence in Networking Analytics"
+  image: dummy.png
+  description: ""
+  authors: J Zhang
+  link:
+    url: https://ecommons.udayton.edu/graduate_theses/7072
+    display: University of Dayton (2023)
+  highlight: 0
+
