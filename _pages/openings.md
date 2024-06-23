@@ -25,7 +25,7 @@ Prospective students will fit in the program better if they meet some (not neces
   - With good programming skill (e.g., Python, PyTorch, C++, Matlab, etc.)
   - With good communication skill (e.g., presentation, group discussion, etc.)
   - Willing to conduct self-guided hands-on projects
-  - 
+    
 **Prospective students please email Dr. Jielun Zhang (jielun.zhang@und.edu) with your CV, research interest, and one of your recent publications if available.**
 
 <figure>
