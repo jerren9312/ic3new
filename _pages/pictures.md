@@ -8,6 +8,8 @@ permalink: /pictures/
 <p>&nbsp;</p>
 
 ## Pictures
+
+<!--
 Jump to: [Leiden](#leiden), [ETHZ](#ethz), [Cornell](#cornell), [St Andrews](#st-andrews)
 
 
@@ -66,3 +68,5 @@ From the [group of Andreas Wallraff](http://www.qudev.ethz.ch/).
 <figure>
 <img src="{{ site.url }}{{ site.baseurl }}/images/picpic/WebpageETH_red.jpg" width="60%">
 </figure>
+
+-->
