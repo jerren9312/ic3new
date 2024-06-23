@@ -8,6 +8,7 @@ permalink: /
 
 **Mission**: Our mission at Lab IC3 is deeply rooted in the pursuit of excellence to address challenges in our digital society. We are committed to pioneering cutting-edge solutions in cybersecurity for protecting sensitive data and combating emerging cyber threats. We aim to optimize the performance and resilience of modern computer networks to ensure their reliability, throughput, and quality of user experience (see [Research](research)).
 
+**We are  looking for passionate new PhD students, Postdocs, and Master students to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
     <!-- Menu -->
@@ -43,8 +44,6 @@ permalink: /
 We are a dynamic research group in the [School of Electrical Engineering & Computer Science](https://engineering.und.edu/academics/electrical-and-computer-science/index.html) at the [University of North Dakota](http://und.edu). 
 
 
-
-**We are  looking for passionate new PhD students, Postdocs, and Master students to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
 
 <!--
 <figure class="fourth">
