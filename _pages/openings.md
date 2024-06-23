@@ -10,7 +10,7 @@ permalink: /vacancies
 
 ## Open positions
 
-**Our lab is currently looking for self-motivated students to work on research projects in networking analytics, cybersecurity, artificial intelligence, etc.**
+- **Our lab is currently looking for self-motivated students to work on research projects in networking analytics, cybersecurity, artificial intelligence, etc.**
   - Graduate Assistantship for Ph.D. and research Master students  (based on availability)
   - Research Experience for professional Master students/Bachelor students
 - To qualify for a Ph.D. or research M.S. application, prospective students must meet the following requirements:
