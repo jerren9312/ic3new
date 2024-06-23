@@ -40,12 +40,11 @@ permalink: /
   </a>
 </div>
 
-We are a dynamic research group, at the [University of North Dakota](http://und.edu). 
+We are a dynamic research group in the [School of Electrical Engineering & Computer Science](https://engineering.und.edu/academics/electrical-and-computer-science/index.html) at the [University of North Dakota](http://und.edu). 
 
 
 
 **We are  looking for passionate new PhD students, Postdocs, and Master students to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
-
 
 <!--
 <figure class="fourth">
