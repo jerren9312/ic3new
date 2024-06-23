@@ -29,5 +29,5 @@ Prospective students will fit in the program better if they meet some (not neces
 **Prospective students please email Dr. Jielun Zhang (jielun.zhang@und.edu) with your CV, research interest, and one of your recent publications if available.**
 
 <figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/team-temp.png" width="95%">
+<img src="{{ site.url }}{{ site.baseurl }}/images/team-temp.png" width="60%">
 </figure>
