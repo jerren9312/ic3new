@@ -16,7 +16,7 @@ permalink: /vacancies
 
 To qualify for a Ph.D. or research M.S. application, prospective students must meet the following requirements:
   - Has a strong motivation to spend the next few years in cutting-edge research.
-  - 
+    
 Prospective students will fit in the program better if they meet some (not necessary all) of the requirements as follows:
   - Willing to work in a multi-cultural environment
   - With research experience, e.g., has research publications that are not the thesis
