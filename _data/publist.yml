@@ -1,23 +1,12 @@
-- title: "Why shot noise does not generally detect pairing in mesoscopic superconducting tunnel junctions"
-  image: ShotNoise.png
-  description: Can mesoscopic shot noise experiments show the doubling of the charge carriers in a superconductor? Turns out, it's complicated. We investigated this in several different samples, and made predictions as to what is necessary to make this work.
-  authors: Jiasen Niu, Koen M. Bastiaans, Jianfeng Ge, Ruchi Tomar, John Jesudasan, Pratap Raychaudhuri, Max Karrer, Reinhold Kleiner, Dieter Koelle, Arnaud Barbier, Eduard F.C. Driessen, Yaroslav M. Blanter, Milan P. Allan
+- title: "Towards Detection of Zero-Day Botnet Attack in IoT Networks using Federated Learning"
+  image: ic3_pub_icc2023.png
+  description: Automated IoT devices produce significant data, making them vulnerable to botnet attacks. Traditional centralized AI models for detecting these attacks compromise privacy and are less effective against zero-day threats. This paper introduces a federated learning framework with a novel aggregation algorithm for detecting zero-day botnet attacks, enhancing privacy and performance. Tests on the N-BaIoT dataset show superior results compared to existing methods.
+  authors: Jielun Zhang, Shicong Liang, Feng Ye, Rose Qingyang Hu, Yi Qian
   link:
-    url: https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.132.076001
-    display: Phys. Rev. Lett. 132, 076001 (Editors' Suggestion)
+    url: https://ieeexplore.ieee.org/abstract/document/10279423
+    display: ICC 2023 - IEEE International Conference on Communications
   highlight: 1
 
-- title: "Puddle formation, persistent gaps, and non-mean-field breakdown of superconductivity in overdoped (Pb,Bi)2Sr2CuO6+δ"
-  image: BSCCOgap.png
-  description: Why does cuprate superconductivity break down at a certain doping level? Using scanning tunneling spectroscopy we find that an emerging metallic matrix inside the superconducting state is responsible for the overall reduction of Tc and the superfluid density, while leaving the gapsize unchanged. The formation of the matrix is tied to a pair breaking process violating a core principle of mean-field theories.
-  authors: WO Tromp, T Benschop, J-F Ge, I Battisti, KM Bastiaans, D Chatzopoulos, A Vervloet, S Smit, E van Heumen, MS Golden, Y Huang, T Kondo, Y Yin, JE Hoffman, MA Sulangi, J Zaanen, MP Allan
-  link:
-    url: https://www.nature.com/articles/s41563-023-01497-1
-    display: Nature Materials 22, 703 (2023)
-  highlight: 1
-  news1: See [News and Views](https://www.nature.com/articles/s41563-023-01552-x) by Yu He.
-
-
 - title: "Autonomous unknown-application filtering and labeling for dl-based traffic classifier update"
   image: dummy.png
   description: ""
@@ -27,30 +16,4 @@
     display: IEEE INFOCOM 2020-IEEE Conference on Computer Communications (2020)
   highlight: 0
 
-- title: "Autonomous unknown-application filtering and labeling for dl-based traffic classifier update"
-  image: dummy.png
-  description: ""
-  authors: J Zhang, F Li, F Ye, H Wu
-  link:
-    url: https://ieeexplore.ieee.org/abstract/document/9155292/
-    display: IEEE INFOCOM 2020-IEEE Conference on Computer Communications (2020)
-  highlight: 0
-  
-- title: "Autonomous unknown-application filtering and labeling for dl-based traffic classifier update"
-  image: dummy.png
-  description: ""
-  authors: J Zhang, F Li, F Ye, H Wu
-  link:
-    url: https://ieeexplore.ieee.org/abstract/document/9155292/
-    display: IEEE INFOCOM 2020-IEEE Conference on Computer Communications (2020)
-  highlight: 0
-
-- title: "Autonomous unknown-application filtering and labeling for dl-based traffic classifier update"
-  image: dummy.png
-  description: ""
-  authors: J Zhang, F Li, F Ye, H Wu
-  link:
-    url: https://ieeexplore.ieee.org/abstract/document/9155292/
-    display: IEEE INFOCOM 2020-IEEE Conference on Computer Communications (2020)
-  highlight: 0
 
