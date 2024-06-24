@@ -1,5 +1,5 @@
 - title: "Towards Detection of Zero-Day Botnet Attack in IoT Networks using Federated Learning"
-  image: ic3_pub_icc2023.png
+  image: ic3_pub_icc2023.PNG
   description: Automated IoT devices produce significant data, making them vulnerable to botnet attacks. Traditional centralized AI models for detecting these attacks compromise privacy and are less effective against zero-day threats. This paper introduces a federated learning framework with a novel aggregation algorithm for detecting zero-day botnet attacks, enhancing privacy and performance. Tests on the N-BaIoT dataset show superior results compared to existing methods.
   authors: Jielun Zhang, Shicong Liang, Feng Ye, Rose Qingyang Hu, Yi Qian
   link:
