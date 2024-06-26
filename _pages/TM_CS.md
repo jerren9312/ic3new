@@ -10,4 +10,12 @@ permalink: /TM_CS/
 
 ### Charles Stolz
 
-TBD
+Ph.D. Student
+
+School of Electrical & Computer Engineering
+
+University of North Dakota
+
+<p>&nbsp;</p>
+
+TBA
