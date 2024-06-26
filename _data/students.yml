@@ -18,6 +18,7 @@
   education2:
   education3:
   education4:
+  url: TM_MA
 
 - name: Ifiok Udoidiok
   photo: ava_IU.png
@@ -29,6 +30,7 @@
   education2:
   education3:
   education4:
+  url: TM_MA
 
 - name: Bruno Saidou Fonkeng
   photo: ava_BF.jpeg
@@ -40,6 +42,7 @@
   education2:
   education3:
   education4:
+  url: TM_MA
 
 - name: Charles Stolz
   photo: bio-photo.jpg
@@ -51,3 +54,4 @@
   education2: MSc, University of Utah
   education3: BSc, University of Utah
   education4:
+  url: TM_MA
