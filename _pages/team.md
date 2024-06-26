@@ -80,6 +80,8 @@ permalink: /team/
 
 
 ### Lab Members
+<li><a href="{{ site.url }}{{ site.baseurl }}/TM_MA">Mohammad Ali</a></li>
+
 {% assign number_printed = 0 %}
 {% for member in site.data.students %}
 
